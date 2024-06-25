@@ -1,3 +1,13 @@
+# Projeto de Análise de Risco de Crédito
+
+Este projeto, conduzido pelo professor Germano C. Vasconcelos do Centro de Informática da UFPE, tem como objetivo realizar uma análise de risco de crédito utilizando redes neurais e outros classificadores e a base de dados fornecida pela American Express. Os classificadores disponíveis incluem Multilayer Perceptron (MLP), Kolmogorov Arnold Networks (KAN), Random Forest e Gradient Boosting. Serão investigadas diferentes topologias de rede e valores de parâmetros, como número de camadas, unidades intermediárias, taxa de aprendizagem, função de ativação e otimizador. O projeto será desenvolvido em Python, utilizando ferramentas como Github, Keras e Scikit-learn.
+
+## Links Úteis
+- Base de dados: [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/data?select=train_data.csv)
+- Implementação da rede KAN e orientações: [Github - kailanefelix/kan-redes-neurais](https://github.com/kailanefelix/kan-redes-neurais)
+
+Para mais detalhes, consulte o PDF fornecido.
+
 ## 📥 Instalação da KAN - Kolmogorov-Arnold Network
 
 Pykan pode ser instalado via PyPI ou diretamente do GitHub.
